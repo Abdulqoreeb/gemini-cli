@@ -2,8 +2,8 @@
 
 # Main function to encapsulate the script's logic
 main() {
-  echo "DEBUG: \$0 inside main function: $0" >&2
-  echo "DEBUG: \$(dirname \"\$0\") inside main function: $(dirname "$0")" >&2
+  #echo "DEBUG: \$0 inside main function: $0" >&2
+  #echo "DEBUG: \$(dirname \"\$0\") inside main function: $(dirname "$0")" >&2
 
   local api_key=$(<~/.gemini_key) # Reads API key from ~/.gemini_key
   local action=$1
