@@ -28,7 +28,7 @@ A command-line interface (CLI) for interacting with the Google Gemini AI model, 
 
 3.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Abdulqoreeb/gemini-cli.git](https://github.com/Abdulqoreeb/gemini-cli.git)
+    git clone https://github.com/Abdulqoreeb/gemini-cli.git
     cd gemini-cli
     ```
 
