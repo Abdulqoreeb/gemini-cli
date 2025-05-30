@@ -28,10 +28,9 @@ A command-line interface (CLI) for interacting with the Google Gemini AI model, 
 
 3.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/gemini-cli.git](https://github.com/YOUR_GITHUB_USERNAME/gemini-cli.git)
+    git clone [https://github.com/Abdulqoreeb/gemini-cli.git](https://github.com/Abdulqoreeb/gemini-cli.git)
     cd gemini-cli
     ```
-    (Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username).
 
 4.  **Make Scripts Executable:**
     ```bash
@@ -92,6 +91,3 @@ All commands start with `gemini`.
     gemini reset-all
     ```
 
-## License
-
-This project is open source. You can add a license here, e.g., MIT License.
